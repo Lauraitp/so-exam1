@@ -173,6 +173,19 @@ tig
 
 ## IMPORTAR
 
+1. Para importar se debe: ir a archivo, y clic en importar servicio virtualizado. Luego buscar el .ova y dar clic en importar.
+
+![](imagenes/importar.png)
+
+2. Configurar la red, en la sala Carvajal es em1.
+
+![](imagenes/configImportar.png)
+
+3. Probar que se ha importado bien. 
+
+![](imagenes/importarFinal.png)
+
+
 
 
 
