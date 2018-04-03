@@ -125,6 +125,10 @@ apt-get install openssh-server
 ```Console
 service shh start
 ```
+Ya después de los comando me sirvió el PUTTY.
+
+![](imagenes/entre_al_putty)
+
 
 Para más información: https://wiki.debian.org/es/SSH
 
@@ -142,9 +146,12 @@ Con el fin de instalar los dos de una vez y confirmar la instalación
 
 ![](imagenes/install%20git%20y%20tig.png)
 
-2. En la siguiente imagen se muestra los commit realizados.
+2. En la siguiente imagen se muestra los commit realizados con el comando:
+```Console
+tig
+```
 
-![]()
+![](imagenes/tig.png)
 
 ## Exportar la máquina virtual e importarla
 
